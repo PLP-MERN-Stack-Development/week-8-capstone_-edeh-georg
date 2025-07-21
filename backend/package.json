@@ -3,14 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
-  "imports": {
-    "@/*": "./src/*",
-    "@controllers/*": "./src/controllers/*",
-    "@lib/*": "./src/lib/*",
-    "@routes/*": "./src/routes/*",
-    "@middleware/*": "./src/middleware/*",
-    "@models/*": "./src/models/*"
-  },
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
