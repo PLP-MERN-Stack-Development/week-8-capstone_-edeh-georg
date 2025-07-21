@@ -1,5 +1,5 @@
 # MERN Stack Capstone Project
-
+This is the URL to the hosted project - *https://chatme-7zq6.onrender.com*
 This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.
 
 ## Assignment Overview
